@@ -1,0 +1,12 @@
+#Starter Django Blog
+
+This is a simple Django site using virtualenv for development as a starter.
+Requirements:
+Python 3.4
+Django 10.5
+virtualenv
+PIP
+
+The simple templated html uses bootstrap and calls CSS and javascript from the 
+bootstrap CDN and is not present in a local directory.
+
